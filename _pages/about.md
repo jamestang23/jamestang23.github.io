@@ -1,49 +1,78 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - "/wordpress/"
+  - "/wordpress/index.html"
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+{% include base_path %}
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+I’m Tang Ying, a professor at the University of Electronic Science and Technology of China, San Diego with appointments in the [Department of Communication](https://communication.ucsd.edu) and the [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu). I am also affiliate faculty in [Computer Science & Engineering](https://cse.ucsd.edu), [Computational Social Science](https://css.ucsd.edu), and the [Institute for Practical Ethics](https://ipe.ucsd.edu), where I lead IPE's [Working Group on Data Governance & Accountability](https://ipe.ucsd.edu/research/data-science.html). 
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Our research topics include stochastic process, machine learning, nonequilibrium statistical physics, information theory and quantitative biology. Combining analytical and numerical approaches, the ultimate goal is to uncover simple theoretical principles that could help understand complex nonequilibrium dynamical processes.
+Check our recent publications in [Google Scholar](https://scholar.google.com/citations?user=-5bbqWsAAAAJ&hl=en). To discuss any interesting science, feel free to contact us at [jamestang23@gmail.com](jamestang23@gmail.com)
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+My research areas encompass stochastic dynamics, machine learning, statistical physics, and open quantum systems. I am honored to be a recipient of a national-level young talent program award. I earned my Bachelor's degree in Applied Mathematics from [Zhiyuan College, Shanghai Jiao Tong University](https://zhiyuan.sjtu.edu.cn/html/zhiyuan/)in 2013, and completed my Ph.D. in Physics at the same institution in 2018,mentored by Prof.[Ping Ao](https://scholar.google.com/citations?user=JQyz-BoAAAAJ&hl=en).Between 2018 and 2021, I contributed as a postdoctoral researcher at the University of California, Los Angeles,supported by Prof. [Alexander Hoffmann](https://www.signalingsystems.ucla.edu/) and have been serving as an associate researcher at the [International Academic Center of Complex Systems](https://zkgyy.bnu.edu.cn/), Beijing Normal University, Zhuhai since 2021. My publications have appeared in prestigious journals such as [Nature Machine Intelligence](https://www.nature.com/natmachintell/), [Nature Communications](https://www.nature.com/ncomms/), [Physics Review E](https://journals.aps.org/pre/), Nature, and Nature Methods. In 2023, I was recognized as the Peng Huanwu Center Young Visiting Scientist by the Chinese Academy of Sciences. Among my recent research accomplishments are the development of evolutionary neural networks for tracking the evolution of high-dimensional stochastic reaction networks, the creation of a computational framework for analyzing the dynamic mutual information of time series, and the discovery that magnetic fields can amplify free energy in non-equilibrium quantum systems without performing any work.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+## My work and research
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+My research includes
 
-**Markdown generator**
+### Machine learning stochastic dynamics:
+Machine learning and stochastic dynamics have deep connections and cross-feed each other. We recenetly have developed machine-learning approaches to investigate the time evolution of stochastic dynamics: (1) propose the first approach of using the neural network alone to solve the chemical master equation; (2) characterize a type of dynamical phase transition in nonequilibrium statistical mechanics; (3) learning noise-induced transitions by multi-scaling reservoir computing.
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+### Dynamical information theory:
+Inferring mutual information from time series data remained challenging as the possible trajectory configurations increases exponentially with the number of time points. We develop a computational framework to quantify the dynamical mutual information of intracellular signaling process, and summarize the recent progresses in this review on quantifying information by machine learning.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+### Nonequilibrium and quantum thermodynamics:
+As a remarkable advance in nonequilibrium thermodynamics during the last 20 years, Jarzynski equality connects free energy changes to nonequilibrium work fluctuations. We found that the free energy change through the Jarzynski equality is independent of magnetic field in the classical regime, but can be amplified by magnetic field in driven quantum system. The magnetic field can also be generated by the coupling to the heat bath.
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+### Stochastic process without detailed balance:
+Stochastic transitions are ubiquitous in nature. Based on path integral approach, we develop a scalable numerical approach to calculate transition rates for a class of Langevin dynamics. The computational cost is robust to varying noise intensity, beyond small noise limit. The efficient computations on transition rates enable a broader use of stochastic modeling in complex dynamics, such as cell state transitions.
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+### Quantitative biology:
+To understand the complex behaviors in biological systems across scales, we have attempted to construct minimum models to describe the data and make predictions: (a) we identified computationally a molecular circuit that control necroptosis decisions such that a bimodal death-time distribution can be produced; (b) we demonstrated that chemotaxis in nutrient-replete conditions promotes the expansion of bacterial populations by modeling the physiological effect on bacterial chemotaxis.
+
+## Come and join us
+
+### Positions and Requirements
+
+The research group is dedicated to the interdisciplinary study of machine learning and physics, with future research directions centered around AI for Physics. We are seeking students interested in exploring and developing new research topics, with recruitment being an ongoing process. 
+
+### Planned research directions include:
+(1) developing machine learning algorithms to track the evolution of stochastic processes; 
+(2) revealing new dynamical phase transition laws in non-equilibrium physical systems;
+(3) calculating the rare paths and probability flows for state transitions in multi-stable systems.
+
+We welcome applications from students in physics, mathematics, computer science, or other related fields. Basic requirements:
+a. Enrolled in top domestic or international universities, outstanding in research achievements, and having obtained the degree required for the position applied for.
+b. Solid mathematical foundation, with priority given to those who have an understanding of interdisciplinary subjects such as machine learning, statistical physics, and stochastic processes.
+
+1.Ph.D. (for Master's graduates, application by examination)
+
+2.Master's
+
+3.Associate Researcher：Qualifications;Capable of conducting independent innovative research; has published several works as the first author in mainstream journals of the discipline.RemunerationBase salary starting from 400,000 RMB/year.
+
+4.Postdoctoral Fellow Qualifications;
+Has a clear plan to pioneer new research directions in academia; has published works as the first author in mainstream journals of the discipline.Remuneration;Base salary 300,000-400,000 RMB/year; for those selected for the Postdoctoral Innovation Program or international exchange program introduction projects, the annual salary is 400,000 RMB+.
+
+5.Research Assistant, Intern (second and third-year students)
+Qualifications;Long-term intern recruitment, with a basic foundation in mathematics and physics. The goal is to independently complete high-level work over a period of more than one year.
+
+### Research Group Features
+
+1.We seek students passionate about research, capable of independent exploration, sustained commitment, breaking through set goals, and full of curiosity. We also value students' character, honesty, perseverance in adversity, and proactive communication.
+2.We offer support for personal career development based on students' interests, a pure research environment, and ample research guidance. Students can discuss and delve deeply into the development of the field and problems with the supervisor, adjusting research directions based on common interests.
+3.The supervisor invests a lot of time in detailed guidance for students, resulting in undergraduates publishing high-impact academic papers as primary authors in journals like Nature Machine Intelligence.
+4.The supervisor supports and encourages students to exchange and cooperate with academic teams at home and abroad, providing opportunities to participate in international and domestic conferences and exchanges, and supporting further studies. The team members are united and supportive of new group members.
+
+### Application Method：
+
+Contact email:  [jamestang23@gmail.com](jamestang23@gmail.com)
+
+Email subject: "Application for Class of '24 PhD/Master's/Associate Researcher/Postdoc/Research Assistant Application" + "Name" + "School"
+
+Application materials: CV, research achievements, awards, etc., or a brief introduction of oneself.
