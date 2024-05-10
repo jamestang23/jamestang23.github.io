@@ -7,12 +7,12 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "Tang Ying / Site Title"
+locale                   : "China"
+title                    : "Tang Ying"
 title_separator          : "-"
 name                     : &name "Tang Ying"
 description              : &description "Professor"
-url                      : https://jamestang23.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jamestang23.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://jamestang23.github.io"
 
@@ -24,10 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Tang Ying"
   pronouns         :  "he"  
-  bio              : "Rm 226, Run Run Shaw Building<br>
-					           Department of Statistics and Actuarial Science<br>
+  bio              : "Department of Statistics and Actuarial Science<br>"
   location         : "ChengDu"
-  employer         : "University of Electronic Science and Technology of China"
+  employer         : "UESTC"
   uri              : # URL
   email            : "jamestang23@gmail.com" 
 
@@ -35,9 +34,9 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=-5bbqWsAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  #orcid            : "http://orcid.org/yourorcidurl"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
