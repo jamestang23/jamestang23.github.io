@@ -4,7 +4,7 @@ collection: teaching
 teaching_type: "Graduate course"
 permalink: /teaching/fall/ 
 institution: "Beijing Normal University, professional courses"
-date: 2024-09-01
+date: 2023-09-01
 excerpt: "<i>Graduate course, Teaching assistant</i><br/>
 Phase Transitions and Critical Phenomena is an introductory course in Systems Science that all incoming graduate students are required to take in their first semester."
 ---
