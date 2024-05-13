@@ -1,10 +1,13 @@
 ---
-title: "Making Algorithms Public: Reimagining Auditing From Matters of Fact to Matters of Concern"
+title: "Learning nonequilibrium statistical mechanics and dynamical phase transitions"
 category: articles
-permalink: /articles/2024-01-01
-excerpt: "Stakeholders concerned with bias, discrimination, and fairness in algorithmic systems are increasingly turning to audits, which typically apply generalizable methods and formal standards to investigate opaque systems. We discuss four attempts to audit algorithmic systems with varying levels of success—depending on the scope of both the system to be audited and the audit’s success criteria. Such scoping is contestable, negotiable, and political, linked to dominant institutions and movements to change them. Algorithmic auditing is typically envisioned as settling “matters-of-fact” about how opaque algorithmic systems behave: definitive declarations that (de)certify a system. However, there is little consensus about the decisions to be automated or about the institutions automating them. We reposition algorithmic auditing as an ongoing and ever-changing practice around “matters-of-concern.” This involves building infrastructures for the public to engage in open-ended democratic understanding, contestation, and problem solving—not just about algorithms in themselves, but the institutions and power structures deploying them. Auditors must recognize their privilege in scoping to “relevant” institutional standards and concerns, especially when stakeholders seek to reform or reimagine them."
-venue: "International Journal of Communication"
-date: 2024-01-01
+permalink: /_publications/2024-02-06
+excerpt: "Nonequilibrium statistical mechanics exhibit a variety of complex phenomena far from equilibrium. It inherits challenges of equilibrium, including accurately
+describing the joint distribution of a large number of configurations, and also poses new challenges as the distribution evolves over time. Characterizing
+dynamical phase transitions as an emergent behavior further requires tracking nonequilibrium systems under a control parameter. While a number of methods have been proposed, such as tensor networks for one-dimensional lattices, we lack a method for arbitrary time beyond the steady state and for higher dimensions. Here, we develop a general computational framework to study the time evolution of nonequilibrium systems in statistical mechanics by leveraging variational autoregressive networks, which offer an efficient computation on the dynamical partition function, a central quantity for discovering the phase transition. We apply the approach to prototype models of nonequilibrium statistical mechanics, including the kinetically constrained models of structural glasses up to three dimensions. The approach uncovers
+the active-inactive phase transition of spin flips, the dynamical phase diagram, as well as new scaling relations. The result highlights the potential of machine
+learning dynamical phase transitions in nonequilibrium systems."
+date: 2024-02-06
 ---
 
 [Download the PDF here](https://ijoc.org/index.php/ijoc/article/download/20811/4455)
