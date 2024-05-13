@@ -1,0 +1,21 @@
+---
+title: "Neural-network solutions to stochastic reaction networks"
+category: articles
+permalink: /publications/2022-11-22
+excerpt: "The stochastic reaction network is widely used to model stochastic processes in physics, chemistry and biology. However, the size of the state space increases exponentially with the number of
+species, making it challenging to investigate the time evolution of the chemical master equation for
+the reaction network. Here, we propose a machine-learning approach using the variational autoregressive network to solve the chemical master equation. The approach is based on the reinforcement
+learning framework and does not require any data simulated in prior by another method. Different
+from simulating single trajectories, the proposed approach tracks the time evolution of the joint
+probability distribution in the state space of species counts, and supports direct sampling of con-
+figurations and computing their normalized joint probabilities. We apply the approach to various
+systems in physics and biology, and demonstrate that it accurately generates the probability distribution over time in the genetic toggle switch, the early life self-replicator, the epidemic model and
+the intracellular signaling cascade. The variational autoregressive network exhibits a plasticity in
+representing the multimodal distribution by feedback regulations, cooperates with the conservation
+law, enables time-dependent reaction rates, and is efficient for high-dimensional reaction networks
+with allowing a flexible upper count limit. The results suggest a general approach to investigate
+stochastic reaction networks based on modern machine learning."
+date: 2022-11-22
+---
+
+[Download the PDF here](https://github.com/jamestang23/jamestang23.github.io/blob/master/1.pdf)
