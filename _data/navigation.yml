@@ -16,7 +16,7 @@ main:
   #  url: /year-archive/
 
   - title: "Students"
-    url: /students/ 
+    url: /posts/ 
     
   - title: "CV"
     url: /cv/
