@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 1"
+title: "LiYun-214: phase transitions and critical phenomena (Fall 2023)"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+teaching_type: "Graduate course"
+permalink: /teaching/fall/ 
+institution: "Beijing Normal University, professional courses"
+date: 2024-09-01
+excerpt: "<i>Graduate course, Teaching assistant</i><br/>
+Phase Transitions and Critical Phenomena is an introductory course in Systems Science that all incoming graduate students are required to take in their first semester."
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Phase Transitions and Critical Phenomena is an introductory course in Systems Science at Beijing Normal University that all incoming graduate students are required to take in the first semester. Through the introduction of phase transitions and critical phenomena, this book describes the basic concepts, basic methods, and recent advances in equilibrium and non-equilibrium statistical physics. My duties included: Holding weekly discussion sessions with an three student group to discuss course material and assignments, holding regular office hours, and providing technical support to professors during lectures.
