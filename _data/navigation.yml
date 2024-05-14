@@ -15,11 +15,11 @@ main:
   #- title: "Blog Posts"
 #    url: /year-archive/
 
-  - title: "Students"
+  - title: "Group"
     url: /students/ 
     
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Contact"
-    url: /contact/
+#  - title: "CV"
+ #   url: /cv/
+   
+ # - title: "Contact"
+  #  url: /contact/
