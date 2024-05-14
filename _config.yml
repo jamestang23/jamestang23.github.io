@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "China"
-title                    : "Machine Learning Stochastic Physics"
+title                    : "AI4Physics"
 title_separator          : "-"
 name                     : &name "Ying Tang"
 description              : "Professor"
@@ -24,7 +24,7 @@ author:
   avatar           : "avatar.jpg"
   #name             : "Ying Tang, Professor"
   #pronouns         :  "he"  
-  bio              : "  Ying Tang, Professor"
+  bio              :   "  Ying Tang, Professor"
   #location         : "ChengDu"
   #description      : "Professor"
   employer         : "UESTC (电子科技大学)"
