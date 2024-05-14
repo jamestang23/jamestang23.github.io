@@ -6,6 +6,10 @@ main:
   #- title: "Experience"
   #  url: /experience/    
 
+ - title: "Group"
+    url: /students/ 
+
+
   - title: "Teaching"
     url: /teaching/    
     
@@ -15,8 +19,7 @@ main:
   #- title: "Blog Posts"
 #    url: /year-archive/
 
-  - title: "Group"
-    url: /students/ 
+ 
     
 #  - title: "CV"
  #   url: /cv/
