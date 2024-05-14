@@ -40,6 +40,6 @@ Teaching
   
 Students
 ======
-  <ul>{% for post in site.teaching reversed %}
+  <ul>{% for post in site.students reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
