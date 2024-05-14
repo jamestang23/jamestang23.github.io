@@ -21,7 +21,7 @@ repository               : "https://jamestang23.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  #avatar           : "avatar.jpg"
+  avatar           : "avatar.jpg"
   #name             : "Ying Tang"
   #pronouns         :  "he"  
   #bio              : "Basic and Frontier Research Institute<br>"
