@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Welcome to the lab of Machine Learning Stochastic Physics! Our research topics include stochastic process, machine learning, nonequilibrium statistical physics, information theory and quantitative biology. Combining analytical and numerical approaches, the ultimate goal is to uncover simple theoretical principles that could help understand complex nonequilibrium dynamical processes.
+Welcome to the lab of Machine Learning Stochastic Physics! 
+Our research topics include stochastic process, machine learning, nonequilibrium statistical physics, information theory and quantitative biology. Combining analytical and numerical approaches, the ultimate goal is to uncover simple theoretical principles that could help understand complex nonequilibrium dynamical processes.
 
 Check our recent publications in [Google Scholar](https://scholar.google.com/citations?user=-5bbqWsAAAAJ&hl=en).
 To discuss any interesting science, feel free to contact us at jamestang23@gmail.com
