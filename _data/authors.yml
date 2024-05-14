@@ -6,8 +6,8 @@ Name Name:
   email       : "https://jamestang23.github.io"
   bio         : "This is the first name."
   avatar      : "1.png"
-  twitter     : "name"
-  google_plus : "Name"
+#  twitter     : "name"
+  google_plus : "Tang Ying"
 
 Name2 Name2:
   name        : "Name2 Name2"
