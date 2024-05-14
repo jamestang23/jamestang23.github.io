@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "China"
-title                    : "Tang Ying"
+title                    : "Machine Learning Stochastic Physics"
 title_separator          : "-"
 name                     : &name "Tang Ying"
 description              : "Professor"
@@ -25,7 +25,7 @@ author:
   name             : "Tang Ying"
   #pronouns         :  "he"  
   #bio              : "Basic and Frontier Research Institute<br>"
-  location         : "ChengDu"
+  location         :"ChengDu"
   employer         : "UESTC(电子科技大学)"
   uri              : # URL
   email            : "jamestang23@gmail.com" 
@@ -47,7 +47,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  #bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/tang-ying-8723365a/"# Username
+  #linkedin         : "https://www.linkedin.com/in/tang-ying-8723365a/"# Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
