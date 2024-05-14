@@ -1,5 +1,5 @@
 ---
-
+title: students
 ---
 * [Fangfang Wang](https://yingtangwebsite.netlify.app/author/fangfang-wang-%E7%8E%8B%E8%8A%B3%E8%8A%B3-joint/), an doctoral student majoring in Systems Science at the Beijing Normal University 
 * [Chris Dong](https://yingtangwebsite.netlify.app/author/chris-dong/), an undergraduate student majoring in Systems Science at the Beijing Normal University
