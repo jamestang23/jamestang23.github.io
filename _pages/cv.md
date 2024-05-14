@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Department of Physics and Astronomy, Shanghai Jiao Tong University, Shanghai, China. 2013.09 – 2018.06
+* Exchange graduate student in Department of Physics.University of California, San Diego, USA. 2016.07 – 2018.03
+* B.S. in Applied Mathematics, Zhiyuan College.Shanghai Jiao Tong University, Shanghai, China. 2009.09 – 2013.06
 
 Work experience
 ======
