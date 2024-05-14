@@ -24,9 +24,9 @@ author:
   avatar           : "avatar.jpg"
   #name             : "Ying Tang"
   #pronouns         :  "he"  
-  #bio              : "Basic and Frontier Research Institute<br>"
+  bio              : "Professor"
   #location         : "ChengDu"
-  description      : "Professor"
+  #description      : "Professor"
   employer         : "UESTC (电子科技大学)"
   uri              : # URL
   email            : "jamestang23@gmail.com" 
