@@ -1,14 +1,15 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  
 
   #- title: "Experience"
   #  url: /experience/    
 
   - title: "Group"
     url: /students/ 
-
+    
+  - title: "Publications"
+    url: /publications/
 
   - title: "Teaching"
     url: /teaching/    
