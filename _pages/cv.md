@@ -38,8 +38,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Students
-======
-  <ul>{% for post in site.students reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
