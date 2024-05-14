@@ -10,7 +10,7 @@
 locale                   : "China"
 title                    : "Machine Learning Stochastic Physics"
 title_separator          : "-"
-name                     : &name "Tang Ying"
+name                     : &name "Ying Tang"
 description              : "Professor"
 url                      : https://jamestang23.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -21,8 +21,8 @@ repository               : "https://jamestang23.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "avatar.jpg"
-  name             : "Tang Ying"
+  #avatar           : "avatar.jpg"
+  name             : "Ying Tang"
   #pronouns         :  "he"  
   #bio              : "Basic and Frontier Research Institute<br>"
   location         : "ChengDu"
