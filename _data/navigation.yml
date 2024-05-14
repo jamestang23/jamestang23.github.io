@@ -6,7 +6,7 @@ main:
   #- title: "Experience"
   #  url: /experience/    
 
- - title: "Group"
+  - title: "Group"
     url: /students/ 
 
 
