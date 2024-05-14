@@ -21,12 +21,12 @@ repository               : "https://jamestang23.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "1.png"
   name             : "Tang Ying"
   pronouns         :  "he"  
   bio              : "Department of Statistics and Actuarial Science<br>"
   location         : "ChengDu"
-  employer         : "UESTC"
+  employer         : "UESTC(University of Electronic Science and Technology of China)"
   uri              : # URL
   email            : "jamestang23@gmail.com" 
 
