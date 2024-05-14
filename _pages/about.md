@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Welcome to the lab of Machine Learning Stochastic Physics. Our research topics include stochastic process, machine learning, nonequilibrium statistical physics, information theory and quantitative biology. Combining analytical and numerical approaches, the ultimate goal is to uncover simple theoretical principles that could help understand complex nonequilibrium dynamical processes.
+Welcome to the lab of Machine Learning Stochastic Physics! Our research topics include stochastic process, machine learning, nonequilibrium statistical physics, information theory and quantitative biology. Combining analytical and numerical approaches, the ultimate goal is to uncover simple theoretical principles that could help understand complex nonequilibrium dynamical processes.
 
 Check our recent publications in [Google Scholar](https://scholar.google.com/citations?user=-5bbqWsAAAAJ&hl=en).
 To discuss any interesting science, feel free to contact us at jamestang23@gmail.com
@@ -18,9 +18,7 @@ About PI: Since 2024, I am a Professor at [Institute of Fundamental and Frontier
 From 2021 to 2024, I was an Associate Researcher at [International Academic Center of Complex Systems](https://zkgyy.bnu.edu.cn/index.html), Beijing Normal University, Zhuhai. 
 From 2018 to 2021, I was a Postdoc fellow at Signaling Systems Laboratory in University of California, Los Angeles, supported by Prof. [Alexander Hoffmann](https://www.signalingsystems.ucla.edu/). I obtained my Ph.D. from Department of Physics, Shanghai Jiao Tong University in 2018, mentored by Prof. [Ping Ao](https://scholar.google.com/citations?user=JQyz-BoAAAAJ&hl=en). During 2016 to 2018, I was an exchange graduate student in Department of Physics, University of California, San Diego, where I got quantitative training from Prof. [Terence Hwa](https://matisse.ucsd.edu/). I completed my B.S. in honored class of [Zhiyuan College](https://zhiyuan.sjtu.edu.cn/), Shanghai Jiao Tong University in 2013. 
 
-## My work and research
-
-My research includes
+## Research interests
 
 ### Machine learning stochastic dynamics:
 Machine learning and stochastic dynamics have deep connections and cross-feed each other. We recenetly have developed machine-learning approaches to investigate the time evolution of stochastic dynamics: (1) propose the first approach of using the neural network alone to solve the chemical master equation; (2) characterize a type of dynamical phase transition in nonequilibrium statistical mechanics; (3) learning noise-induced transitions by multi-scaling reservoir computing.
@@ -37,44 +35,12 @@ Stochastic transitions are ubiquitous in nature. Based on path integral approach
 ### Quantitative biology:
 To understand the complex behaviors in biological systems across scales, we have attempted to construct minimum models to describe the data and make predictions: (a) we identified computationally a molecular circuit that control necroptosis decisions such that a bimodal death-time distribution can be produced; (b) we demonstrated that chemotaxis in nutrient-replete conditions promotes the expansion of bacterial populations by modeling the physiological effect on bacterial chemotaxis.
 
-## Come and join us
 
-### Positions and Requirements
+## Join us
 
-The research group is dedicated to the interdisciplinary study of machine learning and physics, with future research directions centered around AI for Physics. We are seeking students interested in exploring and developing new research topics, with recruitment being an ongoing process. 
+### Postdocs
 
-### Planned research directions include:
-(1) developing machine learning algorithms to track the evolution of stochastic processes; 
-(2) revealing new dynamical phase transition laws in non-equilibrium physical systems;
-(3) calculating the rare paths and probability flows for state transitions in multi-stable systems.
+We are looking for motivated postdocs in areas of machine learning, stochastic dynamics, and statistical physics. Research topics include but are not limited to tracking time evolution and phase transitions in stochastic and open quantum systems by neural networks. The Institute of Fundamental and Frontier Sciences (IFFS) focuses on high-level interdisciplinary science and has an international environment with a dozen foreign faculties. Applicants should have a Ph.D. in physics, math or related subjects. Please send me a CV and a research statement. For [more information](https://academicpositions.com/ad/university-of-electronic-science-and-technology-of-china-uestc/2023/junior-faculty-position-in-the-institute-of-fundamental-and-frontier-sciences/206975). 
 
-We welcome applications from students in physics, mathematics, computer science, or other related fields. Basic requirements:
-a. Enrolled in top domestic or international universities, outstanding in research achievements, and having obtained the degree required for the position applied for.
-b. Solid mathematical foundation, with priority given to those who have an understanding of interdisciplinary subjects such as machine learning, statistical physics, and stochastic processes.
-
-1.Ph.D. (for Master's graduates, application by examination)
-
-2.Master's
-
-3.Associate Researcher：Qualifications;Capable of conducting independent innovative research; has published several works as the first author in mainstream journals of the discipline.RemunerationBase salary starting from 400,000 RMB/year.
-
-4.Postdoctoral Fellow Qualifications;
-Has a clear plan to pioneer new research directions in academia; has published works as the first author in mainstream journals of the discipline.Remuneration;Base salary 300,000-400,000 RMB/year; for those selected for the Postdoctoral Innovation Program or international exchange program introduction projects, the annual salary is 400,000 RMB+.
-
-5.Research Assistant, Intern (second and third-year students)
-Qualifications;Long-term intern recruitment, with a basic foundation in mathematics and physics. The goal is to independently complete high-level work over a period of more than one year.
-
-### Research Group Features
-
-1.We seek students passionate about research, capable of independent exploration, sustained commitment, breaking through set goals, and full of curiosity. We also value students' character, honesty, perseverance in adversity, and proactive communication.
-2.We offer support for personal career development based on students' interests, a pure research environment, and ample research guidance. Students can discuss and delve deeply into the development of the field and problems with the supervisor, adjusting research directions based on common interests.
-3.The supervisor invests a lot of time in detailed guidance for students, resulting in undergraduates publishing high-impact academic papers as primary authors in journals like Nature Machine Intelligence.
-4.The supervisor supports and encourages students to exchange and cooperate with academic teams at home and abroad, providing opportunities to participate in international and domestic conferences and exchanges, and supporting further studies. The team members are united and supportive of new group members.
-
-### Application Method：
-
-Contact email:  [jamestang23@gmail.com](jamestang23@gmail.com)
-
-Email subject: "Application for Class of '24 PhD/Master's/Associate Researcher/Postdoc/Research Assistant Application" + "Name" + "School"
-
-Application materials: CV, research achievements, awards, etc., or a brief introduction of oneself.
+### Students
+We are always looking to recruit self-driven Ph.D. students, master, and undergraduates. If you are interested in, please get in touch. For [more information](https://zhuanlan.zhihu.com/p/676177850).
