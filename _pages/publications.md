@@ -1,12 +1,12 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /publications/
+permalink: /publications
 author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">Check our recent publications in <a href="{{https://scholar.google.com/citations?user=-5bbqWsAAAAJ&hl=en}}">.</div>
+  <div class="wordwrap">YCheck our recent publications in <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
 {% include base_path %}
