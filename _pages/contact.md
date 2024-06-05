@@ -1,6 +1,6 @@
 ---
 permalink: /contact/
-title: "Contact"
+title: "Students"
 author_profile: true
 ---
 # PhD
