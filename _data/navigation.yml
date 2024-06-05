@@ -17,16 +17,16 @@ main:
   - title: "Group1"
     url: /contact/
     
-#  - title: "Portfolio"
- #   url: /portfolio/
+  - title: "Portfolio"
+    url: /portfolio/
         
-  #- title: "Blog Posts"
-#    url: /year-archive/
+  - title: "Blog Posts"
+    url: /year-archive/
 
  
     
 #  - title: "CV"
  #   url: /cv/
    
-  - title: "Contact"
-    url: /contact/
+  #- title: "Contact"
+   # url: /contact/
