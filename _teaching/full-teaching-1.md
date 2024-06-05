@@ -1,5 +1,5 @@
 ---
-title: "LiYun-214: phase transitions and critical phenomena (Fall 2023)"
+title: "LiYun-214: phase transitions and critical phenomena"
 collection: teaching
 teaching_type: "Graduate course"
 permalink: /teaching/fall/ 
