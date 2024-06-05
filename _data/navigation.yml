@@ -5,8 +5,10 @@ main:
   #- title: "Experience"
   #  url: /experience/    
 
+  #- title: "Group"
+  #  url: /students/ 
   - title: "Group"
-    url: /students/ 
+    url: /contact/
     
   - title: "Publications"
     url: /publications/
@@ -14,14 +16,14 @@ main:
   - title: "Teaching"
     url: /teaching/ 
     
-  - title: "Group1"
-    url: /contact/
+  #- title: "Group1"
+   # url: /contact/
     
-  - title: "Portfolio"
-    url: /portfolio/
+  #- title: "Portfolio"
+   # url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  #- title: "Blog Posts"
+#    url: /year-archive/
 
  
     
