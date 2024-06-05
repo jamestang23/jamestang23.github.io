@@ -12,7 +12,10 @@ main:
     url: /publications/
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/ 
+    
+  - title: "Group1"
+    url: /contact/
     
 #  - title: "Portfolio"
  #   url: /portfolio/
@@ -25,5 +28,5 @@ main:
 #  - title: "CV"
  #   url: /cv/
    
- # - title: "Contact"
-  #  url: /contact/
+  - title: "Contact"
+    url: /contact/
