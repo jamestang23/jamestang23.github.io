@@ -1,9 +1,13 @@
 # PhD
-* [Fangfang Wang](https://yingtangwebsite.netlify.app/author/fangfang-wang-%E7%8E%8B%E8%8A%B3%E8%8A%B3-joint/) (2023-)
+* [Fangfang Wang](https://yingtangwebsite.netlify.app/author/fangfang-wang-%E7%8E%8B%E8%8A%B3%E8%8A%B3-joint/) (adjoint, 2023-)
+* [Zidong Cui](2024-)
 
 # Master
 * Zhimao Liu (2024-)
 * Kewen Pan (2024-)
+* Lu Zhong (2024-)
+  
+# Research assistant
 
 # Undergraduates
 * [Chris Dong](https://yingtangwebsite.netlify.app/author/chris-dong/) (2021-)
