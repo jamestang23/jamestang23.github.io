@@ -1,6 +1,6 @@
 # PhD
-* [Fangfang Wang](https://yingtangwebsite.netlify.app/author/fangfang-wang-%E7%8E%8B%E8%8A%B3%E8%8A%B3-joint/) (adjoint, 2023-)
-* Zidong Cui (2024-)
+* [Fangfang Wang(adjoint)](https://yingtangwebsite.netlify.app/author/fangfang-wang-%E7%8E%8B%E8%8A%B3%E8%8A%B3-joint/) (2023-)
+* [Zidong Cui] (2024-)
 
 # Master
 * Zhimao Liu (2024-)
