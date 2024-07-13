@@ -30,7 +30,7 @@ author_profile: true
 * Zhaofan Lu (2021-2024, Teaching at middle school)
 * Runzhi Kong (2021-2024)
 * Hua Tu (2021-2024, Master at Beijing Normal University)
-* Jiayu Weng (2021-2024, PhD at University of Hong Kong)
+* [Jiayu Weng](https://scholar.google.com/citations?user=KZGlHNIAAAAJ&hl=en&oi=ao) (2021-2024, PhD at University of Hong Kong)
 * Haotian Xie (2021-2024, Master at University of Hong Kong)
 * Rappy Zhu (2021-2024, Master at University of Electronic Science and Technology of China)
 * Yuming Ye (2022-2024)
