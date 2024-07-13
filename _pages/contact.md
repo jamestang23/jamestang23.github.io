@@ -1,11 +1,11 @@
 ---
 permalink: /contact/
-title: "Students"
+title: "Students:"
 author_profile: true
 ---
 # PhD
-* Fangfang Wang (2023-)
 * Zidong Cui (2024-)
+* Fangfang Wang (joint, 2023-)
 
 # Master
 * Zhimao Liu (2024-)
@@ -15,16 +15,23 @@ author_profile: true
 * Lu Zhong (2024-)
 
 # Undergraduates
-* Chris Dong (2021-)
-* Haotian Xie (2021-)
-* Hua Tu (2021-)
-* Jiayu Weng (2021-)
-* Runzhi Kong (2021-)
-* Rappy Zhu (2021-)
-* [Zequn Lin](https://linzequn17.github.io/) (2021-)
-* Zhaofan Lu (2021-)
-* Yuming Ye (2022-)
-* Han Zhang (2022-)
+* Kefan Cao (2024-)
+* Qingyang Gao (2024-)
+* Honghao Hu (2024-)
+* Juntian Huang (2024-)
+* Haiqi Lu (2024-)
 
-# Alumni
+# Alumni:
 
+# Undergraduates
+* Chris Dong (2021-2024, now Master at Beijing Normal University)
+* [Zequn Lin](https://linzequn17.github.io/) (2021-2024, now PhD at Westlake University)
+* Haoxian Liu (2021-2024, now Master at Beijing Normal University)
+* Zhaofan Lu (2021-2024, now Teaching at elementary school)
+* Runzhi Kong (2021-2024)
+* Hua Tu (2021-2024, now Master at Beijing Normal University)
+* Jiayu Weng (2021-2024, now PhD at University of Hong Kong)
+* Haotian Xie (2021-2024, now Master at University of Hong Kong)
+* Rappy Zhu (2021-2024, now Master at University of Electronic Science and Technology of China)
+* Yuming Ye (2022-2024)
+* Han Zhang (2022-2024)
