@@ -13,6 +13,8 @@ author_profile: true
   
 # Research assistant
 * Lu Zhong (2024-)
+* Wenli Duan (2024-)
+* Yifei Zhao (2024-)
 
 # Undergraduates
 * Kefan Cao (2024-)
