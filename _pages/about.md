@@ -14,7 +14,7 @@ Our research topics include stochastic process, machine learning, nonequilibrium
 
 To discuss any interesting science, feel free to contact us at jamestang23@gmail.com
 
-About PI: Since 2024, I am a Professor at [Institute of Fundamental and Frontier Sciences](https://www.iffs.uestc.edu.cn/iffs_en/), University of Electronic Science and Technology of China, Chengdu. 
+About PI: Since 2024, I am a Professor at [Institute of Fundamental and Frontier Sciences](https://www.iffs.uestc.edu.cn/iffs_en/), University of Electronic Science and Technology of China, Chengdu, my hometown. 
 From 2021 to 2024, I was an Associate Researcher at [International Academic Center of Complex Systems](https://zkgyy.bnu.edu.cn/index.html), Beijing Normal University, Zhuhai. 
 From 2018 to 2021, I was a Postdoc fellow at Signaling Systems Laboratory in University of California, Los Angeles, supported by Prof. [Alexander Hoffmann](https://www.signalingsystems.ucla.edu/). I obtained my Ph.D. from Department of Physics, Shanghai Jiao Tong University in 2018, mentored by Prof. [Ping Ao](https://scholar.google.com/citations?user=JQyz-BoAAAAJ&hl=en). During 2016 to 2018, I was an exchange graduate student in Department of Physics, University of California, San Diego, where I got quantitative training from Prof. [Terence Hwa](https://matisse.ucsd.edu/). I completed my B.S. in honored class of [Zhiyuan College](https://zhiyuan.sjtu.edu.cn/), Shanghai Jiao Tong University in 2013. 
 
