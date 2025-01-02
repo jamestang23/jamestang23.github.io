@@ -1,6 +1,6 @@
 ---
 permalink: /contact/
-title: "Students:"
+title: "Group:"
 author_profile: true
 ---
 # Postdoc
