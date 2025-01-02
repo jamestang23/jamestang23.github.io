@@ -6,7 +6,7 @@ author_profile: true
 # Postdoc
 * Jiaxin Qian (2025-)
   
-* # PhD
+# PhD
 * Zidong Cui (2024-)
 * Fangfang Wang (joint, 2023-)
 
