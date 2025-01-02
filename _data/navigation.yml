@@ -8,7 +8,7 @@ main:
   #- title: "Group"
   #  url: /students/ 
   - title: "Group"
-    url: /contact/
+    url: /students/
     
   - title: "Publications"
     url: /publications/
