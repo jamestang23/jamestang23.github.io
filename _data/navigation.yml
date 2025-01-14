@@ -12,8 +12,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Teaching"
-    url: /teaching/ 
+  #- title: "Teaching"
+  #  url: /teaching/ 
     
   #- title: "Group1"
    # url: /contact/
