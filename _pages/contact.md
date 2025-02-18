@@ -42,4 +42,4 @@ author_profile: true
 * Yuming Ye (2022-2024)
 * Han Zhang (2022-2024)
 
-%# Visitors:
+# Visitors:
