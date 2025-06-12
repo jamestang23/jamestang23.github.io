@@ -40,7 +40,7 @@ To understand the complex behaviors in biological systems across scales, we have
 
 ### Postdocs
 
-We are looking for motivated postdocs in areas of machine learning, stochastic dynamics, and statistical physics. Research topics include but are not limited to tracking time evolution and phase transitions in stochastic and open quantum systems by neural networks. The Institute of Fundamental and Frontier Sciences focuses on high-level interdisciplinary science and has an international environment with a dozen foreign faculties. Applicants should have a Ph.D. in physics, math or related subjects. Please send me a CV and a research statement. 
+We are looking for motivated postdocs in areas of machine learning, stochastic dynamics, and statistical physics. Research topics include but are not limited to tracking time evolution and phase transitions in stochastic and open quantum systems by neural networks. Applicants should have a Ph.D. in physics, math or related subjects. Please send me a CV and a research statement. 
 
 ### Students
 We are always looking for self-driven Ph.D. students, master, and undergraduates. If you are interested in, please get in touch. For [more information](https://zhuanlan.zhihu.com/p/676177850).
